@@ -1,0 +1,30 @@
+{
+  "screens": [
+    {
+      "id": "update-1.1",
+      "badge": "What's new in 1.1",
+      "title": "In This Update",
+      "minAppVersion": "1.1",
+      "items": [
+        {
+          "symbol": "square.grid.2x2",
+          "color": "teal",
+          "title": "Home Screen widgets",
+          "text": "See what's due next and which holds are ready, right from your Home Screen."
+        },
+        {
+          "symbol": "map",
+          "color": "gold",
+          "title": "Find your way inside",
+          "text": "Bellevue Library now has a floor map. Tap Inside the library on the branch page."
+        },
+        {
+          "symbol": "person.2",
+          "color": "purple",
+          "title": "Staff picks",
+          "text": "Browse reading lists from KCLS staff on Home and in Search."
+        }
+      ]
+    }
+  ]
+}

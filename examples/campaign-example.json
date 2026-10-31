@@ -1,0 +1,23 @@
+{
+  "screens": [
+    {
+      "id": "campaign-sample-nov-2026",
+      "badge": "This month",
+      "title": "Sample Campaign",
+      "startDate": "2026-11-01T08:00:00Z",
+      "endDate": "2026-11-30T08:00:00Z",
+      "priority": 1,
+      "buttonTitle": "Got it",
+      "buttonLink": "https://kcls.org",
+      "buttonLinkTitle": "Learn more",
+      "items": [
+        {
+          "symbol": "sparkles",
+          "color": "teal",
+          "title": "Placeholder headline",
+          "text": "Placeholder text. Swap in real campaign copy before this goes live."
+        }
+      ]
+    }
+  ]
+}
