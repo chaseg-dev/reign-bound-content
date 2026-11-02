@@ -8,8 +8,6 @@
       "endDate": "2026-11-30T08:00:00Z",
       "priority": 1,
       "buttonTitle": "Got it",
-      "buttonLink": "https://kcls.org",
-      "buttonLinkTitle": "Learn more",
       "items": [
         {
           "symbol": "sparkles",

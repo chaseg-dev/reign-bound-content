@@ -17,7 +17,6 @@ The app checks this file when it opens. Each entry in `screens` is one What's Ne
 | `title` | yes | The big headline. |
 | `items` | yes | The rows. Each row has `symbol`, `title`, `text`, and optional `color` and `note`. |
 | `buttonTitle` | no | The main button. Defaults to "Continue". |
-| `buttonLink`, `buttonLinkTitle` | no | A second link, like "Learn more" to a kcls.org page. |
 | `minAppVersion` | no | Only show on this app version or newer. Use for update notes. |
 | `maxAppVersion` | no | Only show up to this app version. |
 | `startDate`, `endDate` | no | Only show between these times, written like `2026-11-01T08:00:00Z` (that is midnight Pacific). |
