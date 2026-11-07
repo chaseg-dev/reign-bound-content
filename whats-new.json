@@ -1,6 +1,33 @@
 {
   "screens": [
     {
+      "id": "update-2026-11-07",
+      "badge": "What's new",
+      "title": "In This Update",
+      "priority": 10,
+      "items": [
+        {
+          "symbol": "bell.badge",
+          "color": "teal",
+          "title": "Know when your holds are ready",
+          "text": "Get an alert with the book's cover when a hold is waiting for you. Press and hold the alert to see the details, then tap See my holds or get directions to the library.",
+          "note": "We're still testing these alerts, so they may not arrive on their own yet."
+        },
+        {
+          "symbol": "bolt",
+          "color": "gold",
+          "title": "A faster Home screen",
+          "text": "Home opens quicker, and covers you've already seen show up right away."
+        },
+        {
+          "symbol": "arrow.down.circle",
+          "color": "purple",
+          "title": "Takes up less space",
+          "text": "The app is now about a quarter smaller on your phone."
+        }
+      ]
+    },
+    {
       "id": "update-1.1",
       "badge": "What's new in 1.1",
       "title": "In This Update",
